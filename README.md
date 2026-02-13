@@ -1,11 +1,25 @@
 ## 👋 E aí, beleza?
 
-Me chamo **Kauan Tillmann** e sou estudante de **Engenharia de Software**.  
-Atualmente, estou me aprofundando em **desenvolvimento de software**, **banco de dados** e na construção de soluções que gerem impacto real.
+Me chamo **Kauan Tillmann** e sou estudante de **Engenharia de Software (8º período)**.  
+Atualmente atuo na área de operações logísticas na **Yusen Logistics**, com experiência anterior na área digital da Renault do Brasil.
 
-💡 Curioso por novas tecnologias e sempre buscando escrever um código mais limpo, organizado e eficiente.  
-🚀 Evoluindo a cada projeto, erro e aprendizado.  
-🎮 Quando não estou codando, provavelmente estou jogando ou aprendendo algo novo.
+Sou apaixonado por tecnologia, automação de processos e desenvolvimento de sistemas que gerem impacto real no negócio.
+
+💡 Sempre buscando escrever código mais limpo, organizado e escalável.  
+🚀 Evoluindo a cada projeto, desafio e aprendizado.  
+📊 Foco em desenvolvimento, dados e eficiência operacional.
+
+---
+
+## 🌐 Meu Portfólio
+
+💻 Conheça meus projetos, experiências e tecnologias:
+
+🔗 **Portfolio Online:**  
+https://kauandevportfolio.netlify.app/
+
+📂 **Repositório do Portfolio:**  
+https://github.com/tillmann2x/kauandevportfolio
 
 ---
 
@@ -22,26 +36,23 @@ Atualmente, estou me aprofundando em **desenvolvimento de software**, **banco de
 
 ---
 
-## 🌐 Conecte-se comigo  
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tillmann2x)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198334813885/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-tillmann-a54163276/)
-
----
-
 ## 🚀 Tecnologias que uso no dia a dia  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+---
+
+## 🌐 Conecte-se comigo  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-tillmann-a54163276/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tillmann2x)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)](https://instagram.com/tillmann2x)
 
 ---
 
