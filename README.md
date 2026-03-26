@@ -1,7 +1,7 @@
 ## 👋 E aí, beleza?
 
 Me chamo **Kauan Tillmann** e sou estudante de **Engenharia de Software (8º período)**.  
-Atualmente atuo na área de operações logísticas na **Yusen Logistics**, com experiência anterior na área digital da Renault do Brasil.
+Atualmente atuo na área de desenvolvimento na *DrogaVET*, com experiência anteriores nas áreas logistícas e digitais na Renault do Brasil.
 
 Sou apaixonado por tecnologia, automação de processos e desenvolvimento de sistemas que gerem impacto real no negócio.
 
@@ -15,8 +15,8 @@ Sou apaixonado por tecnologia, automação de processos e desenvolvimento de sis
 
 💻 Conheça meus projetos, experiências e tecnologias:
 
-🔗 **Portfolio Online:**  
-https://kauandevportfolio.netlify.app/
+**Portfolio Online:**  
+https://tillmann2x.github.io/meu-portfolio/
 
 📂 **Repositório do Portfolio:**  
 https://github.com/tillmann2x/kauandevportfolio
@@ -29,10 +29,10 @@ https://github.com/tillmann2x/kauandevportfolio
 📌 Plataforma web para visualização e organização de dados logísticos, com foco em clareza, usabilidade e apoio à tomada de decisão.
 
 🌐 **Projeto online (Demo):**  
-🔗 https://sldsproject.netlify.app/
+https://sldsproject.netlify.app/
 
 📂 **Código-fonte:**  
-🔗 https://github.com/tillmann2x/sldsproject
+https://github.com/tillmann2x/sldsproject
 
 ---
 
