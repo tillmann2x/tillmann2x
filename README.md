@@ -29,7 +29,7 @@ https://github.com/tillmann2x/kauandevportfolio
 📌 Plataforma web para visualização e organização de dados logísticos, com foco em clareza, usabilidade e apoio à tomada de decisão.
 
 🌐 **Projeto online (Demo):**  
-https://sldsproject.netlify.app/
+https://tillmann2x.github.io/electrolux-warehouse-navigator/
 
 📂 **Código-fonte:**  
 https://github.com/tillmann2x/sldsproject
