@@ -34,6 +34,12 @@ https://tillmann2x.github.io/electrolux-warehouse-navigator/
 📂 **Código-fonte:**  
 https://github.com/tillmann2x/sldsproject
 
+### 🔹 Data Muse  
+📌 Plataforma que simula um desafio real de grandes empresas: dados espalhados entre ERP, planilhas e múltiplos sistemas.
+
+🌐 **Projeto online (Demo):**
+https://data-muse.netlify.app/
+
 ---
 
 ## 🚀 Tecnologias que uso no dia a dia  
