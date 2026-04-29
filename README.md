@@ -1,7 +1,7 @@
 ## 👋 E aí, beleza?
 
 Me chamo **Kauan Tillmann** e sou estudante de **Engenharia de Software (8º período)**.  
-Atualmente atuo na área de desenvolvimento na *DrogaVET*, com experiência anteriores nas áreas logistícas e digitais na Renault do Brasil.
+Atualmente atuo na área de desenvolvimento na *Horse Tech*, com experiência anteriores nas áreas logistícas e digitais na Renault do Brasil.
 
 Sou apaixonado por tecnologia, automação de processos e desenvolvimento de sistemas que gerem impacto real no negócio.
 
