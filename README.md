@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia, automação de processos e desenvolvimento de sis
 💻 Conheça meus projetos, experiências e tecnologias:
 
 **Portfolio Online:**  
-https://tillmann2x.github.io/meu-portfolio/
+https://portfolio-kauantillmann.netlify.app/
 
 📂 **Repositório do Portfolio:**  
 https://github.com/tillmann2x/kauandevportfolio
